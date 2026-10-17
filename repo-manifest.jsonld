@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bentoml/BentoML/commit/517b343b81aeb0b01bbd908e58e53ad9c12ef7eb",
       "git:hexsha": "517b343b81aeb0b01bbd908e58e53ad9c12ef7eb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T10:20:40.344534+00:00"
     },
     {
       "@id": "https://repolex.ai/r/bentoml/BentoML/commit/444394e4d4ccb6a9c83b175f621c60b82314df95",
